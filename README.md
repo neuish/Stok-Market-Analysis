@@ -1,1 +1,1 @@
-# Stok-Market-Analysis
+# Stock-Market-Analysis
